@@ -7,3 +7,4 @@
 *.ply
 *.txt
 *.pyc
+*.npz
